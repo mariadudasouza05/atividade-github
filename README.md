@@ -1,3 +1,3 @@
-# atividade-github1
+# atividade-github
 para fins educacionais
 segunda feira
